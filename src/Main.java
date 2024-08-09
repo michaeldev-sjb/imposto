@@ -47,7 +47,7 @@ public class Main {
 
         double taxDue = grossTax - abatement;
 
-        System.out.println("\nRELATÓRIO DE IMPOSTO DE RENDA");
+        System.out.println("\nRELATÓRIO DE IMPOSTO DE RENDA\n");
 
         System.out.println("CONSOLIDADO DE RENDA:");
         System.out.printf("Imposto sobre salário: %.2f%n", taxSalary);
